@@ -1,1 +1,2 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/xr2RtvyI)
+https://editor.p5js.org/justin.sardano/sketches/Z3rbJ-tn3 For the first part, I just had to mirror the x information, and replace it for the y. I then added or subtracted the radius of the circle from the width and height, so the edge of the ball would hit.
